@@ -1,4 +1,5 @@
 ## Final Project For Microsoft Internship
+My Foodie Blog features a website of restaurant that offers a variety of healthy and delicious national and international cuisines at an affordable cost 
 ## azure-app-link : https://brave-moss-0b031da10.1.azurestaticapps.net
 ## git-hub link : https://github.com/yusufakhtar-3/microsoft-project.git
 ## Website : 
